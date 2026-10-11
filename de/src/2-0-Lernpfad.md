@@ -16,7 +16,7 @@ Das war es schon! Wenn Ihr mehr über das Ministerium oder die CLC erfahren möc
 
 Wir haben jetzt den thematischen Teil der Vernetzung dieser Communities mehr oder weniger übersprungen bzw. als selbstverständlich vorausgesetzt: Dass nämlich Neugier, Zukunftslust und lebenslanges Lernen etwas miteinander zu tun haben oder, mehr noch, nicht voneinander zu trennen sind. Aber wir glauben, wenn Ihr anderer Meinung wärt, hättet Ihr Euch nicht zu dieser Lernreise zusammengefunden, nicht wahr?
 
-## Ziel des Leitfadens: Was nehmt Ihr mit?
+### Ziel des Leitfadens: Was nehmt Ihr mit?
 
 Dieser Leitfaden hat kein klassisches Lernziel. Das passt aus unserer Sicht irgendwie nicht zu Titel und Thema. Neugier lässt sich nicht einfach abhaken wie eine erledigte Aufgabe. Und Zukunftslust entsteht vermutlich auch nicht, weil man sie sich vornimmt.
 
@@ -24,13 +24,13 @@ Was wir Euch aber anbieten, ist ein Rahmen, in dem Ihr Eure Neugier und Zukunfts
 
 Wenn es so funktioniert, wie wir es uns vorstellen, habt Ihr nach diesen 12 Wochen nicht nur über Neugier und Zukunft nachgedacht. Ihr habt erlebt, wie sich Neugier und Zukunftslust anfühlen, wenn Ihr damit ins Handeln kommt. Und Ihr habt vielleicht ein bisschen mehr Vertrauen darin gewonnen, dass Ihr kommenden Veränderungen nicht ausgeliefert seid, sondern ihnen fragend, lernend und gestaltend begegnen könnt.
 
-## Zielgruppe: Wer ist hier richtig?
+### Zielgruppe: Wer ist hier richtig?
 
 Für wen ist dieser Leitfaden gedacht? Zuerst einmal müsst Ihr keine Innovations-Profis oder Zukunftsforscher:innen sein. Es reicht, wenn Ihr merkt, dass Euch die Fragen unserer Zeit beschäftigen. Vielleicht, weil Ihr in Eurem Arbeitsumfeld mit Veränderungen zu tun habt. Vielleicht, weil Ihr in einem Team, einer Organisation oder Community neue Wege sucht, mit diesen Veränderungen umzugehen. Vielleicht auch, weil Ihr persönlich spürt, dass alte Gewissheiten und Routinen nicht mehr tragen und Ihr eine andere Haltung zur Zukunft entwickeln möchtet.
 
 Kurz: Willkommen sind alle, die ihre Zukunftshaltung stärken wollen - allein, im Tandem, im Learning Circle, im Team oder in einer Community!
 
-## Ablauf: Wie funktioniert der Lernpfad?
+### Ablauf: Wie funktioniert der Lernpfad?
 
 - Ein lernOS Lernpfad ist eine Zusammenstellung von **Grundlagen** und **Übungen, die „Katas" genannt werden**.
 
@@ -47,3 +47,93 @@ Kurz: Willkommen sind alle, die ihre Zukunftshaltung stärken wollen - allein, i
 - Aber Ihr könnt den Lernpfad natürlich auch allein oder im Tandem durchlaufen.
 
 - Das sind unsere Empfehlungen: Es ist natürlich auch möglich, die Katas ganz anders zu bearbeiten, sie modularer zu nutzen oder gegebenenfalls anzupassen.
+
+
+
+BILD LERNPFAD ÜBERSICHT NEU GENERIEREN UND EINFÜGEN
+
+
+
+
+
+## Ankommen: Vorbereitung, Kennenlernen, Standortbestimmung, Zielsetzung
+
+### Rahmenbedingungen:
+
+Wir sind am Start. Heute, bevor es also richtig losgeht, solltet Ihr die Rahmenbedingungen Eurer Lernreise geklärt haben:
+
+- Wie bearbeitet Ihr diesen Lernpfad? Alleine, im Tandem oder in einem Learning Circle
+
+- Für Tandem und Circle: Wann wollt Ihr euch zu einem wöchentlichen Austausch verabreden?
+
+- Für Euch alleine: Wann wollt Ihr Euch die Zeit im Kalender reservieren, um Euch mit dem Leitfaden und den Übungen zu beschäftigen?
+
+- Welche Hilfsmittel wollt Ihr für Eure Lernreise nutzen (zum Beispiel welches Videokonferenz-Tool oder Kollaborationsboard oder welches Tool für gemeinsame Notizen)?
+
+### Kennenlernen:
+
+Die wichtigste Aufgabe in dieser Woche ist es, Euch gegenseitig kennenzulernen. Stellt Euch deshalb kurz vor und sprecht über Eure Erwartungen an die gemeinsame Lernreise und den Austausch mit den anderen.
+
+Mögliche Fragen zum Einstieg:
+
+- Was hat Dich hierher geführt?
+
+- Wann warst Du zuletzt richtig neugierig?
+
+- Was macht Dir mit Blick auf die Zukunft eher Lust, was eher Sorge?
+
+### Circle-Moderation und Timekeeping:
+
+Es ist sinnvoll, sich eingangs über den Ablauf Eurer Treffen zu verständigen, also: Wer moderiert Eure Treffen? Wer hat die Zeit im Blick? Wir empfehlen Euch, sich mit Moderation und Timekeeping abzuwechseln, so dass jede:r mal dran kommt!
+
+### Standortbestimmung:
+
+Was wir mit Neugier, Zukunftslust und Selbstwirksamkeit genau meinen, werden wir im Laufe dieses Lernpfads noch näher erläutern. An dieser Stelle wollen wir Euch zu einer kurzen Selbsteinschätzung einladen und fragen, wo Ihr heute in Bezug auf Neugier, Zukunftslust und Selbstwirksamkeit auf einer Skala von 0-10 steht (10 = Dein persönliches Optimum, 0 = das Gegenteil davon):
+
+- Neugier: Wie offen gehe ich gerade auf Neues zu?
+
+- Zukunftslust: Wie positiv schaue ich aktuell auf die Zukunft und meine Mitgestaltungsmöglichkeiten?
+
+- Selbstwirksamkeit: Wie sehr glaube ich, dass mein Handeln einen Unterschied macht?
+
+Tauscht Euch anschließend in der Gruppe über Eure Einschätzungen aus!
+
+### Euer persönliches Ziel:
+
+Ein persönliches Lernziel hilft Euch, von Anfang an einen konkreten Bezugspunkt für die Lernreise zu haben. So werden die Übungen in den nächsten Wochen nicht abstrakt bearbeitet, sondern Ihr könnt sie immer wieder mit einer eigenen Frage, einem persönlichen Anliegen oder einem „echten" Projekt verbinden. Das Ziel darf sich im Laufe der 12 Wochen verändern. Es dient nicht als starre Vorgabe, sondern als Orientierung, an der Ihr Eure Beobachtungen, Erkenntnisse und nächsten Schritte ausrichten könnt.
+
+Fragen, die Euch beim Finden eines persönlichen Ziels helfen können:
+
+- Was soll sich nach den 12 Wochen konkret ändern im Vergleich zum jetzigen Zustand?
+
+- Was möchtet Ihr aus diesem Lernpfad mitnehmen -- was genau wäre danach anders (tun, fühlen, denken, reden)?
+
+- Wie stellt Ihr Euch in dem Bereich, in dem Ihr Veränderung anstrebt, Eure Zukunft vor?
+
+- Ihr möchtet bestimmte Dinge nicht mehr -- was soll STATTDESSEN sein?
+
+- Wie merkt Euer Umfeld (Kolleg:innen, Partner:innen etc.), dass sich bei Euch etwas verändert hat?
+
+**Beispiele für persönliche Lernziele:**
+
+- Ich möchte lernen, in meinem Team bessere Fragen zu stellen, bevor wir vorschnell Lösungen suchen.\
+  Zum Beispiel bezogen auf: wiederkehrende Konflikte, zähe Meetings, geringe Beteiligung, fehlende Fehlerkultur, unklare Prioritäten oder die Frage, wie wir voneinander lernen.\
+  **Mein Thema/Projekt:** ...
+
+- Ich möchte ein kleines Experiment planen und durchführen, das zeigt, wie Neugier und Zukunftslust im Arbeitsalltag wirksam werden können.\
+  Zum Beispiel bezogen auf: eine neue Meetingroutine, ein Lernformat im Team, einen offenen Fragenaustausch, ein KI-Experiment, ein Feedbackformat oder einen Prototyp für eine neue Idee.\
+  **Mein Thema/Projekt:** ...
+
+- Ich möchte eine konkrete Veränderungssituation in meinem Arbeitsumfeld neugierig untersuchen und neue Handlungsoptionen entwickeln.\
+  Zum Beispiel bezogen auf: Einführung neuer Software, hybrides Arbeiten, Silodenken zwischen Abteilungen, Fachkräftemangel, neue Kundenbedürfnisse oder veränderte Erwartungen an Führung.\
+  **Mein Thema/Projekt:** ...
+
+
+
+## Euer Ergebnis:
+
+- persönliches Lernziel für 12 Wochen gefunden
+
+- Ausgangspunkt dokumentiert
+
+- Circle-/ Tandem-Vereinbarung getroffen
