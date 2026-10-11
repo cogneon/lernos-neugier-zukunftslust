@@ -58,7 +58,7 @@ Wenn wir Neugier als Haltung begreifen, verschiebt sich die Frage von \"Bin ich 
 
 - Grüning, D. J., & Lechner, C. M. (2023). Measuring six facets of curiosity in Germany and the UK: A German-language adaptation of the 5DCR and its comparability with the English-language source version. Journal of Personality Assessment
 
- 
+
 
 ## Kata 3: Meine persönliche Neugier-Landkarte
 
@@ -84,11 +84,9 @@ Wenn wir Neugier als Haltung begreifen, verschiebt sich die Frage von \"Bin ich 
 
 Trage die Werte in ein einfaches Spinnennetz-Diagramm ein (Vorlage liegt bei) oder notiere sie einfach als Liste -- beides funktioniert.
 
- 
+
 
 BILD MEINE NEUGIER-LANDKARTE EINFÜGEN
-
-
 
 
 
@@ -114,7 +112,7 @@ Beispiel: "Diese Woche werde ich im Teammeeting bewusst Stresstoleranz üben, in
 
 Notiere diesen Satz sichtbar (Haftnotiz, Notiz-App) - er ist dein Transferanker für die Woche.
 
- 
+
 
 ### Zweite Übung (Optional im Circle, 10--15 Min.)
 
@@ -125,5 +123,3 @@ Kurzer, wertfreier Austausch:
 - Keine Diskussion, kein Feedback nötig -- reines Hören und ggf. eine neugierige Rückfrage, wenn Zeit bleibt.
 
 - Falls der Circle diese Woche klein oder unvollständig ist: Die Übung funktioniert genauso gut, wenn nur die Selbstlernzeit stattfindet. Der Wert liegt im eigenen Reflexionsprozess, nicht im Austausch.
-
-
