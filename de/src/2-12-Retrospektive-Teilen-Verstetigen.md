@@ -14,7 +14,7 @@ Vielleicht fragt Ihr Euch an dieser Stelle: „Ich habe in den letzten 12 Wochen
 
 Die Antwort liegt im Zusammenspiel von **innerer Haltung** und **äußerer Handlung**, wie es das Rubikon-Modell aus der Motivationspsychologie (entwickelt von Heinz Heckhausen und Peter Gollwitzer) veranschaulicht. Es beschreibt den Weg vom Unbewussten zur tatsächlichen, dauerhaften Verhaltensänderung: 
 
-EINFÜGEN GRAPHIK RUBIKON-MODELL
+![Rubikon-Modell](images/Rubikon-Modell.png)
 
 
 1. **Die Entwicklung Eurer Inneren Haltung (Links vom Rubikon):**

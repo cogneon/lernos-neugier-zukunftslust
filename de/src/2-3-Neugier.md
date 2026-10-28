@@ -84,9 +84,7 @@ Wenn wir Neugier als Haltung begreifen, verschiebt sich die Frage von \"Bin ich 
 
 Trage die Werte in ein einfaches Spinnennetz-Diagramm ein (Vorlage liegt bei) oder notiere sie einfach als Liste -- beides funktioniert.
 
-
-
-BILD MEINE NEUGIER-LANDKARTE EINFÜGEN
+![Neugierlandkarte](images/Neugierlandkarte.png)
 
 
 

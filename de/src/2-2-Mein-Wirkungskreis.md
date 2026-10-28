@@ -74,5 +74,4 @@ Jede:r stellt in 3 Minuten das eigene Spielfeld vor: Wo bestehen echte Handlungs
 - Mein Lernziel aus Woche 0 ist geerdet und handlungsfähig gemacht.
 
 
-
-BILD LERNOS WIRKUNGSKREIS CANVAS ALS BILD ERSTELLEN UND EINFÜGEN
+![lernOS Wirkungskreis Canvas](images/Wirkungskreis-Canvas.png)

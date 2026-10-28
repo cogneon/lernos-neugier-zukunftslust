@@ -48,11 +48,7 @@ Kurz: Willkommen sind alle, die ihre Zukunftshaltung stärken wollen - allein, i
 
 - Das sind unsere Empfehlungen: Es ist natürlich auch möglich, die Katas ganz anders zu bearbeiten, sie modularer zu nutzen oder gegebenenfalls anzupassen.
 
-
-
-BILD LERNPFAD ÜBERSICHT NEU GENERIEREN UND EINFÜGEN
-
-
+![Übersicht über die Kapitel des Lernpfads](images/Übersicht-Lernpfad-Kapitel.jpg)
 
 
 
