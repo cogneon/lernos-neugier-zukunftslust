@@ -480,4 +480,64 @@ git pull --rebase
 
 ---
 
+# Zusammenfassung
+
+## Voraussetzungen
+
+1. GitHub Account anlegen
+
+↓
+
+2. Einladung annehmen
+
+↓
+
+3. GitHub Desktop installieren
+
+↓
+
+4. Visual Studio Code installieren
+
+↓
+
+5. MarkText installieren
+
+↓
+
+6. Repository klonen
+
+## Mitarbeit
+
+1. Branch erstellen: git checkout -b vorname-thema
+
+↓
+
+2. Text bearbeiten
+
+↓
+
+3. Speichern
+
+↓
+
+4. git add .
+
+↓
+
+5. git commit
+
+↓
+
+6. git pull --rebase
+
+↓
+
+7. git push
+
+↓
+
+8. Pull Request erstellen
+
+---
+
 # Vielen Dank für Deine Mitarbeit!
