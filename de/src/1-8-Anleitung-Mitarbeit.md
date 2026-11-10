@@ -364,6 +364,17 @@ Dann im Terminal von Visual Studio Code ausführen:
 git push
 ```
 
+#### Bei Fehler: "has no upstream branch"
+
+Ursache:
+Der Branch wurde lokal erstellt, wurde aber noch nicht mit GitHub verknüpft.
+
+Lösung: Folgenden Befehl im Terminal ausführen
+
+```bash
+git push -u origin DEIN-BRANCHNAME
+```
+
 Anschließend unter GitHub überprüfen, ob im Repository https://github.com/cogneon/lernos-neugier-zukunftslust unter deinem Branch alle Änderungen erfolgreich angekommen sind.
 
 ---
