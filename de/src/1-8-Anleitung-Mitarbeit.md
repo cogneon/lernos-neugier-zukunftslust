@@ -385,18 +385,18 @@ Wenn der Zweck deines persönlichen Branches abgeschlossen ist und alle deine ge
 
 Erstelle dafür auf GitHub einen Pull Request:
 
-- Pull requests
+- über Button "Compare & pull request" oder
 
-- New pull request
+- unter "Pull requests" > "New pull request
 
-- von compare: "Dein Branch" zu base: master
+- Wichtig: von compare: "Dein Branch" (Pfeil von rechts nach links) zu base: master
 
 - Create pull request 
-  inkl. Beschreibung 
+  inkl. Titel & Beschreibung 
   - Was wurde geändert?
   - Warum wurde es geändert?
 
-- Wenn deine Änderungen von anderen Autor:innen überprüft werden sollen, füge sie als Reviewer hinzu.
+- Wenn deine Änderungen von anderen Autor:innen überprüft werden sollen, füge sie unter "Reviewers" hinzu.
 
 ---
 
