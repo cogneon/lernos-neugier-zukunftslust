@@ -6,6 +6,10 @@ Diese Anleitung unterstützt Dich dabei, den Lernpfad gemeinsam mit anderen Auto
 
 Du solltest keine Vorkenntnisse benötigen - im Zweifel kann dir aber auch jede Suchmaschine und KI weiterhelfen oder du wendest dich an die Initiator:innen des Lernpfads.
 
+1. Workshop hat stattgefunden am 11-11-2026.
+
+2. 
+
 ---
 
 # 0. Was ist was?
@@ -35,8 +39,6 @@ https://github.com
 
 Nach der Registrierung bitte den GitHub-Benutzernamen für eine Einladung zum Repository https://github.com/cogneon/lernos-neugier-zukunftslust mitteilen.
 
-
-
 ## GitHub Desktop
 
 Download & Installation:
@@ -45,8 +47,6 @@ https://desktop.github.com
 
 GitHub Desktop vereinfacht die Zusammenarbeit mit Git und GitHub.
 
-
-
 ## Visual Studio Code
 
 Download & Installation:
@@ -54,8 +54,6 @@ Download & Installation:
 https://code.visualstudio.com
 
 Visual Studio Code verwenden wir für Git und die Verwaltung des Projekts.
-
-
 
 ## MarkText
 
@@ -393,6 +391,7 @@ Erstelle dafür auf GitHub einen Pull Request:
 
 - Create pull request 
   inkl. Titel & Beschreibung 
+  
   - Was wurde geändert?
   - Warum wurde es geändert?
 
