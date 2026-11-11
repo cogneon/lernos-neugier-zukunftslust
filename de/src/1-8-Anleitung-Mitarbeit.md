@@ -8,8 +8,6 @@ Du solltest keine Vorkenntnisse benötigen - im Zweifel kann dir aber auch jede 
 
 1. Workshop hat stattgefunden am 11-11-2026.
 
-2. 
-
 ---
 
 # 0. Was ist was?
@@ -29,6 +27,16 @@ Du solltest keine Vorkenntnisse benötigen - im Zweifel kann dir aber auch jede 
 
 # 1. Benötigte Software & Voraussetzungen
 
+## Git
+
+Download & Installation:
+
+https://git-scm.com/install/windows
+
+Sorgt für das Zusammenspiel und die Versionskontrolle aller Programme und Arbeitsstände - lokal und im öffentlichen Repository.
+
+Hinweis: Nach der Installation von Git bitte Visual Studio Code und MarkText vollständig schließen und neu starten, falls diese schon offen sind/waren. Danach steht Git diesen Programmen normalerweise zur Verfügung.
+
 ## GitHub
 
 GitHub ist unsere gemeinsame Plattform für die Zusammenarbeit am Lernpfad.
@@ -46,6 +54,8 @@ Download & Installation:
 https://desktop.github.com
 
 GitHub Desktop vereinfacht die Zusammenarbeit mit Git und GitHub.
+
+Hinweis: Alle Funktionen auch im Web unter https://github.com/cogneon/lernos-neugier-zukunftslust verfügbar.
 
 ## Visual Studio Code
 
@@ -118,13 +128,34 @@ Diese Ordner werden automatisch über Produktionskette erzeugt.
 
 ---
 
-# 5. Vor Arbeitsbeginn aktualisieren
+# 5. Vor Arbeitsbeginn vorbereiten und aktualisieren
+
+Änderungen speichern über STRG + S oder Einstellung "Auto Save" unter "File" im Menü aktivieren
+(Wichtig: Git erkennt nur gespeicherte Änderungen!)
+
+
 
 Terminal öffnen:
 
 Terminal → New Terminal
 
-Aktuellen Stand holen:
+
+
+Testen, ob Git im Terminal verfügbar ist:
+
+```bash
+git --version
+```
+
+Es sollte beispielsweise angezeigt werden - dann wurde Git erfolgreich installiert:
+
+```bash
+git version 2.xx.x
+```
+
+
+
+Aktuellen Stand des Repos holen:
 
 ```bash
 git checkout master
@@ -206,7 +237,7 @@ C:\Git-Projekte\lernos-neugier-zukunftslust
 
 Wenn Du eine Datei in MarkText bearbeitest und speicherst, erkennt Visual Studio Code diese Änderung automatisch.
 
-Du musst Dateien nicht zwischen den Programmen übertragen.
+Du musst Dateien nicht zwischen den Programmen übertragen. Dafür:
 
 ## Repository in MarkText öffnen
 
@@ -216,11 +247,11 @@ Menü:
 
 File → Open Folder
 
-Danach den lokalen Repository-Ordner auswählen:
+Danach den gleichen lokalen Repository-Ordner auswählen wie zuvor in Visual Studio Code:
 
 C:\Git-Projekte\lernos-neugier-zukunftslust
 
-MarkText zeigt anschließend die Ordnerstruktur des Projektes an.
+MarkText zeigt anschließend die gleiche Ordnerstruktur des Projektes an.
 
 ## Empfohlene Arbeitsweise
 
@@ -230,7 +261,8 @@ MarkText zeigt anschließend die Ordnerstruktur des Projektes an.
 
 3. Markdown-Dateien unter de/src in MarkText bearbeiten
 
-4. Änderungen speichern über STRG + S oder Einstellung "Auto Save" unter "File" im Menü (Wichtig: Git erkennt nur gespeicherte Änderungen!)
+4. Änderungen speichern über STRG + S oder Einstellung "Auto Save" unter "File" im Menü aktivieren
+   (Wichtig: Git erkennt nur gespeicherte Änderungen!)
 
 5. Zu Visual Studio Code wechseln
 
@@ -316,14 +348,15 @@ Sie erzeugt automatisch:
 
 - DOCX
 
-Daher entstehen zwischenzeitlich auf deinem Branch in Git neue Änderungen, die nicht von dir selbst vorgenommen wurden.
+Daher entstehen eventuell zwischenzeitlich auf deinem Branch in Git neue Änderungen, die nicht von dir selbst vorgenommen wurden.
 
-Das ist normal. Daher ist Schritt 12 unverzichtbar.
+Wenn das passiert und du trotz sauberem Committens deiner Änderungen über "git status" noch Änderungen siehst oder du "git push" nicht ausführen kannst, ist ggf. Schritt 12 nötig.
 
 ---
 
-# 12. In Visual Studio Code vor jedem Push
+# 12. In Visual Studio Code vor dem Push
 
+Eventuell nötiger Zwischenschritt vor dem Push (s. Punkt 11):
 Sobald alle gewünschten Änderungen committet wurden und nicht nur lokal, sondern auch im öffentlichen Repository auf GitHub verfügbar gemacht werden sollen:
 
 Im Terminal von Visual Studio Code ausführen:
@@ -346,7 +379,7 @@ Dadurch werden alle in der Zwischenzeit durch die automatische Produktionskette 
 
 ---
 
-# 13. Änderungen in GitHub hochladen
+# 13. Änderungen in GitHub hochladen: Push
 
 Tipp zunächst Status im Terminal von Visual Studio Code nochmals prüfen:
 
@@ -373,7 +406,7 @@ Lösung: Folgenden Befehl im Terminal ausführen
 git push -u origin DEIN-BRANCHNAME
 ```
 
-Anschließend unter GitHub überprüfen, ob im Repository https://github.com/cogneon/lernos-neugier-zukunftslust unter deinem Branch alle Änderungen erfolgreich angekommen sind.
+Anschließend unter GitHub überprüfen, ob im Repository https://github.com/cogneon/lernos-neugier-zukunftslust unter deinem Branch alle Änderungen erfolgreich angekommen sind (zur Auswahl der Branches das Dropdown unter dem Namen des Repos "lernos-neugier-zukunftslust" verwenden, wo in der Regel "master" vorausgewählt steht).
 
 ---
 
@@ -396,6 +429,8 @@ Erstelle dafür auf GitHub einen Pull Request:
   - Warum wurde es geändert?
 
 - Wenn deine Änderungen von anderen Autor:innen überprüft werden sollen, füge sie unter "Reviewers" hinzu.
+
+- Reviewer werden darüber benachrichtigt und können Feedback zu den Änderungen des Pull requests per Kommentar geben.
 
 ---
 
@@ -421,7 +456,9 @@ Der Pull Request aktualisiert sich automatisch.
 
 # 16. Merge in den Master-Branch
 
-Nach der inhaltlichen Freigabe deines Pull requests, kannst du nun final alle deine Änderungen in unser Master-Version, den Branch "master" übernehmen über  "Merge Pull Request".
+Nach der inhaltlichen Freigabe deines Pull requests, kannst du nun final alle deine Änderungen in unser Master-Version, den Branch "master" übernehmen über  "Merge Pull Request". Deinen lokaler Branch kannst du nach dem erfolgreichen Merge löschen. 
+
+Hinweis: Es entsteht automatisch in der Historie des master-Branches ein merge-Commit mit der Beschreibung "Merge pull request #x from 'Dein Branchname'" - das ist so gewollt für die Nachvollziehbarkeit. Falls dieser angezeigt wird, nicht irritieren lassen.
 
 Danach gerne noch lokal in Visual Studio Code aktualisieren, um wieder auf den vollständigen, geänderten Stand zuzugreifen:
 
@@ -477,33 +514,39 @@ Vorher ausführen:
 git pull --rebase
 ```
 
+-> Gerne Liste erweitern, mit Dingen, die bei euch schief gegangen sind.
+
 ---
 
 # Zusammenfassung
 
 ## Voraussetzungen
 
-1. GitHub Account anlegen
+1. Git installieren
 
 ↓
 
-2. Einladung annehmen
+2. GitHub Account anlegen
 
 ↓
 
-3. GitHub Desktop installieren
+3. Einladung zum Repository annehmen
 
 ↓
 
-4. Visual Studio Code installieren
+4. GitHub Desktop installieren
 
 ↓
 
-5. MarkText installieren
+5. Visual Studio Code installieren
 
 ↓
 
-6. Repository klonen
+6. MarkText installieren
+
+↓
+
+7. Repository klonen und öffnen
 
 ## Mitarbeit
 
@@ -527,7 +570,7 @@ git pull --rebase
 
 ↓
 
-6. git pull --rebase
+6. (ggf. git pull --rebase)
 
 ↓
 
@@ -535,7 +578,7 @@ git pull --rebase
 
 ↓
 
-8. Pull Request erstellen
+8. Pull Request erstellen und mergen
 
 ---
 
